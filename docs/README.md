@@ -2,7 +2,7 @@
 
 Internal Developer Platform builder. Private repo derived from [cnoe-io/idpbuilder](https://github.com/cnoe-io/idpbuilder).
 
-- Repository: https://github.com/idpbuilder/idpbuilder (private)
+- Repository: https://github.com/Unimart-For-Operations/idpbuilder (private)
 - Upstream: https://github.com/cnoe-io/idpbuilder (public, read-only reference)
 
 ## Overview

@@ -30,7 +30,7 @@ This repo diverges from upstream to support our own infrastructure:
 Prerequisites: Go 1.21+, Make, Docker (via Colima on macOS).
 
 ```bash
-git clone git@github.com:idpbuilder/idpbuilder.git
+git clone git@github.com:Unimart-For-Operations/idpbuilder.git
 cd idpbuilder
 make build
 ./idpbuilder --help

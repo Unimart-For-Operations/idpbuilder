@@ -27,4 +27,6 @@ jobs:
         run: go vet ./...
 
       - name: go test
+        env:
+          KIND_EXPERIMENTAL_PROVIDER: docker
         run: go test ./...
